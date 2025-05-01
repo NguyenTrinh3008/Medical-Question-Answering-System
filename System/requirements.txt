@@ -1,0 +1,16 @@
+streamlit
+transformers
+chromadb
+rapidfuzz
+regex
+torch==2.2.2
+beautifulsoup4
+requests
+# Remove unsloth as it's not compatible with Python 3.12
+# unsloth
+scikit-learn
+numpy
+pandas
+langchain
+langchain-community
+langchain-huggingface

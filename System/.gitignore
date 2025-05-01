@@ -1,0 +1,15 @@
+chroma_storage/
+
+ViMedAQA_full_dataset.csv
+
+output_file.csv
+
+preprocessed_file.csv
+
+fine_tuned_model_new/
+
+outputs/
+
+outputs_stage2/
+
+outputs_stage3/
